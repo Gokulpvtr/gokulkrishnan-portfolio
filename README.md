@@ -179,7 +179,11 @@ Interactive 3D portfolio with GPU particle effects, custom cursor, glass UI, and
 | 6 | OWASP Juice Shop | TryHackMe | ✅ Completed |
 | 7 | Cisco Packet Tracer | Cisco Skills for All | ✅ Completed |
 | 8 | Cisco Networking Basics | Cisco Skills for All | ✅ Completed |
-| 9 | CompTIA Security+ | Self Study | 📋 Planned |
+| 9 | Artificial Intelligence for cybersecurity | Linkedin learning | ✅ Completed |
+| 10 | Wiz Bug Bounty Masterclass | WIZ | ✅ Completed |
+| 11 | CompTIA Security+ | Self Study | 📋 Planned |
+
+
 
 📁 Certificate images: [`public/certs`](public/certs)
 
