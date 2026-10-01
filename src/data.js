@@ -11,16 +11,16 @@ export const profile = {
 
   // The line under your name types through these, one after another.
   roles: [
-    'Aspiring Penetration Tester',
+    'Aspiring Cybersecurity Professional',
     'Web Application Security Learner',
-    'Bug Bounty Learner',
+    'Bug Bounty Hunter',
   ],
 
   intro:
-    'BCA student focused on offensive security. I practice on PortSwigger and TryHackMe, write up what I learn, and build small tools to go with it. Everything is public on GitHub.',
+    'BCA student focused on offensive security and web application security. I practice vulnerability research through PortSwigger, TryHackMe, and real-world responsible disclosure, while building security tools and documenting what I learn on GitHub.',
 
   // Small tags under the intro.
-  focus: ['Ethical Hacking', 'Penetration Testing', 'Web Application Security'],
+  focus: ['Web Application Security', 'Penetration Testing', 'Bug Bounty'],
 
   // Put your photo at  public/profile.jpg  (see README). Set to '' to show initials.
   photo: 'profile.jpg',
@@ -89,15 +89,15 @@ export const stats = [
 
 export const about = {
   paragraphs: [
-    "I'm a BCA student at the University of Kerala. I got into cybersecurity by wondering how systems work and how they break.",
-    'My main interests are offensive security and web application security. I work through PortSwigger Web Security Academy and TryHackMe labs and write up each one: what the flaw is, how I exploited it, and how it should be fixed.',
-    "I keep notes on every vulnerability class I study and build small Python tools. I'm getting ready for real bug bounty programs by learning scope, recon, and reporting first.",
+    "I'm a BCA student at the University of Kerala building practical skills in offensive security and web application security.",
+    'I learn through hands-on labs on PortSwigger Web Security Academy and TryHackMe, while practicing reconnaissance, vulnerability testing, exploitation, validation, and responsible disclosure.',
+    "I've also built small security tools in Python and document my labs, research, and projects on GitHub. My current focus is developing the skills needed for penetration testing and real-world bug bounty research.",
   ],
   facts: [
     { label: 'Studying', value: 'BCA, University of Kerala' },
     { label: 'Focus', value: 'Web application security' },
     { label: 'Practicing on', value: 'PortSwigger Academy, TryHackMe' },
-    { label: 'Next goal', value: 'First valid bug bounty report' },
+    { label: 'Current goal', value: 'Build real-world vulnerability research experience' },
   ],
 }
 
@@ -107,31 +107,31 @@ export const methodology = [
     step: '01',
     title: 'Recon',
     icon: 'search',
-    text: 'Map the target: subdomains, technologies, endpoints, and exposed files, staying inside scope.',
+    text: 'Understand the target, identify subdomains, technologies, endpoints, and exposed functionality while staying within scope.',
   },
   {
     step: '02',
     title: 'Enumerate',
     icon: 'network',
-    text: 'Walk every feature and role to find what an attacker could reach: hidden endpoints, parameters, roles.',
+    text: 'Explore application functionality, parameters, roles, endpoints, and attack surfaces to understand what can be reached.',
   },
   {
     step: '03',
     title: 'Test',
     icon: 'bug',
-    text: 'Work through a checklist for each vulnerability class: injection, access control, auth, logic flaws.',
+    text: 'Test for vulnerability classes such as injection, XSS, access control issues, authentication flaws, and business logic weaknesses.',
   },
   {
     step: '04',
     title: 'Validate',
     icon: 'flask',
-    text: 'Reproduce the finding, minimize the proof of concept, and confirm the real impact before reporting.',
+    text: 'Reproduce the issue safely, confirm the security impact, and create a minimal proof of concept.',
   },
   {
     step: '05',
     title: 'Report',
     icon: 'book',
-    text: 'Write it up clearly: steps to reproduce, impact, and a fix, the way a real disclosure report reads.',
+    text: 'Document the vulnerability clearly with reproduction steps, impact, evidence, and remediation guidance for responsible disclosure.',
   },
 ]
 
