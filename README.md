@@ -180,8 +180,9 @@ Interactive 3D portfolio with GPU particle effects, custom cursor, glass UI, and
 | 7 | Cisco Packet Tracer | Cisco Skills for All | ✅ Completed |
 | 8 | Cisco Networking Basics | Cisco Skills for All | ✅ Completed |
 | 9 | Artificial Intelligence for cybersecurity | Linkedin learning | ✅ Completed |
-| 10 | Wiz Bug Bounty Masterclass | WIZ | ✅ Completed |
-| 11 | CompTIA Security+ | Self Study | 📋 Planned |
+| 10 | Cybersecurity Fundamentals | IBM Skills Build | ✅ Completed |
+| 11 | Wiz Bug Bounty Masterclass | WIZ | ✅ Completed |
+| 12 | CompTIA Security+ | Self Study | 📋 Planned |
 
 
 
