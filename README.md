@@ -178,10 +178,10 @@ Interactive 3D portfolio with GPU particle effects, custom cursor, glass UI, and
 | 5 | n8n Automation Tool | Analytics Vidhya | ✅ Completed |
 | 6 | OWASP Juice Shop | TryHackMe | ✅ Completed |
 | 7 | Cisco Packet Tracer | Cisco Skills for All | ✅ Completed |
-| 8 | Cisco Networking Basics | Cisco Skills for All | ⏳ In Progress |
+| 8 | Cisco Networking Basics | Cisco Skills for All | ✅ Completed |
 | 9 | CompTIA Security+ | Self Study | 📋 Planned |
 
-📁 Certificate images: [`public/certs`](https://github.com/Gokulpvtr/portfolio/tree/main/public/certs)
+📁 Certificate images: [`public/certs`](https://github.com/Gokulpvtr/gokulkrishnan-portfolio/public/certs)
 
 ---
 
