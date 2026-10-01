@@ -181,7 +181,7 @@ Interactive 3D portfolio with GPU particle effects, custom cursor, glass UI, and
 | 8 | Cisco Networking Basics | Cisco Skills for All | ✅ Completed |
 | 9 | CompTIA Security+ | Self Study | 📋 Planned |
 
-📁 Certificate images: [`public/certs`](https://github.com/Gokulpvtr/gokulkrishnan-portfolio/public/certs)
+📁 Certificate images: [`public/certs`](public/certs)
 
 ---
 
