@@ -8,7 +8,7 @@ Final-year BCA student building a career in IT Infrastructure and Cybersecurity,
 
 <br>
 
-[![Live Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-00e5ff?style=for-the-badge)](https://gokulpvtr.github.io/portfolio/)
+[![Live Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-00e5ff?style=for-the-badge)](https://gokulkrishnan-portfolio-delta.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Gokulpvtr-181717?style=for-the-badge&logo=github)](https://github.com/Gokulpvtr)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulkrishnanorg@gmail.com)
 
@@ -18,7 +18,7 @@ Final-year BCA student building a career in IT Infrastructure and Cybersecurity,
 
 ## 🌐 Live Demo
 
-**👉 [gokulpvtr.github.io/portfolio](https://gokulpvtr.github.io/portfolio/)**
+**👉 [gokulpvtr.github.io/portfolio](https://gokulkrishnan-portfolio-delta.vercel.app/)**
 
 My interactive 3D portfolio website, built with React and Three.js.
 
