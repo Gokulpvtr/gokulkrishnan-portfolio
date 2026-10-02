@@ -192,6 +192,14 @@ export const skills = [
 // link appears by itself. Add  url: '...'  to override the GitHub link.
 export const projects = [
   {
+    repo: 'RECON-X',
+    icon: 'secret',
+    status: 'active',
+    description:
+      'Automated reconnaissance tool for subdomain enumeration, live host detection, technology fingerprinting, and HTML reporting.',
+    tags: ['Python', 'DNS', 'HTTP/HTTPS', 'Multi-threading'],
+  },
+  {
     repo: 'VulnScope',
     icon: 'bug',
     status: 'active',
