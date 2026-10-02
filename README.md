@@ -79,8 +79,8 @@ npm run preview   # test the built site locally
 | Hands-on app testing | [vulnerable-app-labs](https://github.com/Gokulpvtr/vulnerable-app-labs) |
 | Pentest reports | [pentest-report-samples](https://github.com/Gokulpvtr/pentest-report-samples) |
 | Tools / scripts | [python-port-scanner](https://github.com/Gokulpvtr/python-port-scanner), [security-tools](https://github.com/Gokulpvtr/security-tools) |
-| Recon & bug bounty | [bug-bounty-methodology](https://github.com/Gokulpvtr/bug-bounty-methodology) |
-| Scanning | [nmap-labs](https://github.com/Gokulpvtr/nmap-labs) |
+| Recon & bug bounty | [RECON-X](https://github.com/Gokulpvtr/recon-x), [bug-bounty-methodology](https://github.com/Gokulpvtr/bug-bounty-methodology)| 
+| Scanning Dashboard | [VulnScope](https://github.com/Gokulpvtr/VulnScope) |
 | Networking & Linux | [networking-notes](https://github.com/Gokulpvtr/networking-notes), [linux-note](https://github.com/Gokulpvtr/linux-note), [packet-tracer-labs](https://github.com/Gokulpvtr/packet-tracer-labs), [wireshark-analysis](https://github.com/Gokulpvtr/wireshark-analysis) |
 | Portfolio website | [portfolio](https://github.com/Gokulpvtr/gokulkrishnan-portfolio) |
 
@@ -128,21 +128,33 @@ Documentation of security testing methodologies, reconnaissance workflows, and l
 **Skills:** Reconnaissance · Security Documentation · Workflow Development
 📂 [bug-bounty-methodology](https://github.com/Gokulpvtr/bug-bounty-methodology)
 
+#### 4. VulnScope — Nmap Vulnerability Management Dashboard
+**Tools:** Python, Nmap, SQL, Chart.js, HTML/CSS
+Self-hosted vulnerability management platform that converts Nmap scan results into an authenticated dashboard with structured host, port, service, and vulnerability data. Includes configurable scans, CVE-based risk assessment, scan history, live progress monitoring, and PDF, HTML, and JSON reporting.
+**Skills:** Python · Nmap · Network Security · Vulnerability Management · SQL · Web Security · Secure Backend Development · Input Validation · Session/CSRF Security · Security Automation
+📂 [VulnScope](https://github.com/Gokulpvtr/VulnScope)
+
+#### 5. RECON-X — Automated Reconnaissance & Enumeration Tool
+**Tools:** Python, DNS, HTTP/HTTPS, Multi-threading
+Automated reconnaissance tool for subdomain enumeration, live host detection, technology fingerprinting, and HTML reporting.
+**Skills:** Python · Reconnaissance · DNS Enumeration · Web Security · Network Security · Multi-threading · Security Automation
+📂 [RECON-X](https://github.com/Gokulpvtr/recon-x)
+
 ### 🌐 Networking & System Administration
 
-#### 4. Enterprise Network Design Lab
+#### 6. Enterprise Network Design Lab
 **Tools:** Cisco Packet Tracer
 Enterprise-style network environments with VLANs, DHCP, NAT, ACLs, routing, and switching.
 **Skills:** Network Design · Routing & Switching · VLAN Configuration · Network Troubleshooting
 📂 [packet-tracer-labs](https://github.com/Gokulpvtr/packet-tracer-labs)
 
-#### 5. Network Traffic Analysis
+#### 7. Network Traffic Analysis
 **Tools:** Wireshark, Kali Linux
 Captured and analyzed traffic to study DNS, HTTP/HTTPS, TCP handshakes, and protocol behavior.
 **Skills:** Packet Analysis · Protocol Identification · Network Monitoring · Traffic Investigation
 📂 [wireshark-analysis](https://github.com/Gokulpvtr/wireshark-analysis)
 
-#### 6. Linux Administration Notes
+#### 8. Linux Administration Notes
 **Tools:** Kali Linux, Ubuntu Linux
 Linux administration notes, command references, and practical exercises.
 **Skills:** Linux Fundamentals · File Permissions · Process Management · Network Configuration
@@ -150,7 +162,7 @@ Linux administration notes, command references, and practical exercises.
 
 ### 💻 Web Development
 
-#### 7. 3D Cybersecurity Portfolio Website
+#### 9. 3D Cybersecurity Portfolio Website
 **Tools:** React, Vite, Three.js, Framer Motion
 Interactive 3D portfolio with GPU particle effects, custom cursor, glass UI, and adaptive performance mode.
 **Skills:** React · Three.js · Frontend Performance · Accessibility · CI/CD (GitHub Actions)
